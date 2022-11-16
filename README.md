@@ -1,5 +1,5 @@
 - 👋 Olá, sou o Leandro Maciel - @leandrol11
-- 🌱 Atualmente estou estudando NodeJS na Udemy e pretendo atuar como dev front-end!
+- 🌱 Atualmente estou estudando React na Alura e pretendo atuar como dev front-end!
 - 📫 Meu Portifólio/Site https://leandrol11.github.io/
 - 👀 Meu Linkedln  https://www.linkedin.com/in/leandro-m-o-silva/
 <!---
